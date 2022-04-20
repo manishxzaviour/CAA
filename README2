@@ -43,8 +43,23 @@ PPT:https://docs.google.com/presentation/d/16z4fwE0yeEEU0PWtNm4lv_pMOZiI3kbr9JnK
 <static structure>:
 <boundary conditions>
 <force plane> <fixed plane>
+<force plane node B> < fixed plane node A>
 <solutions>
-<>
+<in form of left right format>
+<subtitle>
+<left figure> <right <graph> >
+<'NormalStress4s.avi'><graph>
+<'NormalElasticStrain4s.avi'><graph>
+<'strain2.avi'><graph>
+<'stress2.avi'><graph>
+<conclusion>
+<Directional Deformation>
+<use vedio 'DirectionalDeformation4s.avi' at left>
+<graph at right from ansys o/p>
+<Reaction forces>
+<use vedio 'ReactionForces.avi'>
+<graph at right from 'ReactionForces.jpg' and 'ReactionForces2.png'>
+
 
 
 
