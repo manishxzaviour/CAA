@@ -1,0 +1,53 @@
+
+# fem project organization
+1 project
+1 report
+1 ppt
+1 viva
+
+project : https://github.com/manishxzaviour/CAA
+
+report: https://docs.google.com/document/d/1efEY09SiCTF9iVF1Uogc-Vn-xSLzZjDZMMVpmHtEx6c/edit?usp=sharing
+>structure:
+poblem statement :
+"understand and visualize stess, strain and displacement using fea due to tensile forces"
+resources:
+<'design of element structure' use image 'model.png' from root>
+<'comutational analysis software' ansys use 'logo.png'>
+boundary conditions:
+<the fixed node of element and the node at which force is acting>
+<use the image 'staticfigure.png'>
+<make a label as node B=node at which tencile force is acting; node A= fixed node >
+Parameters:
+<use the force vs time graph from the ansys output at ProjectFemALL>Project.html>
+<use the table below/above it of force data max 20000 min 0>
+< use the Material Data >Structural Steel table to make 'material properties'> 
+Solution:
+<use the images in the ansys output ProjectFemALL>Project.html>
+<use format <figure:graph> and table below it ; do for all available stress and strain>
+discussion:
+<use the deformation figure 'directional deformation', graph and table in ansys o/p to form 'result'>
+<use the images  'ReactionForce.png'/'.jpg'/'ReactionForces2.png' to form conclusion>
+<"Conclusion :">
+{
+the applied tensile force caused internal resistive force.
+the internal resistive force results in stress in the elements.
+the stress causes strain and deformation of the element structure.
+}
+
+PPT:https://docs.google.com/presentation/d/16z4fwE0yeEEU0PWtNm4lv_pMOZiI3kbr9JnKz-Cn4Do/edit?usp=sharing
+<content index>
+<use stucture in 'capture.png'>
+<structural analysis>
+<static structure><solutions>
+<static structure>:
+<boundary conditions>
+<force plane> <fixed plane>
+<solutions>
+<>
+
+
+
+
+
+
